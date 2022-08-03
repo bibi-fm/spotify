@@ -21,6 +21,7 @@
     At the end, you should have a list of Artists.
     For each artist, we will display the name (DONE), the first 20 characters of the bio (DONE),
     the gender(DONE) and the number of music written(DONE).
+    TODO: update styling
 
 * Part 3 : BRICIA
     - Create a page to insert a new artist.
@@ -29,11 +30,11 @@
 * Part 4 : RICARDO
     - Song/Music list page ('/songs)
     This page will list all songs.
-    Display at least the title, the poster and name of the artist.
+    Display at least the title, the poster and name of the artist. DONE
 
-    - Add the option to sort by song name DESC or ASC.
+    - Add the option to sort by song name DESC or ASC. DONE
 
-    - Add a search box (input). When user press the search button it will look for a movie's title looking like what's inside the input [BONUS]
+    - Add a search box (input). When user press the search button it will look for a movie's title looking like what's inside the input [BONUS] TODO
 
 * Part 5 : BRICIA
     - Registration page ('/ register'):
@@ -50,7 +51,7 @@
 * Part 6 : RICARDO
     - My account page ('/ account')
     This page will display information about the user.
-    This page is allowed only for loggued-in user.
+    This page is allowed only for logged-in user.
 
 * Part 7 : BRICIA
     - Playlist page ('/playlists).
