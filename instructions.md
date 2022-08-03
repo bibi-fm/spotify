@@ -19,8 +19,8 @@
     - Artist list page ('/ artists')
     This page will list all artists. You will therefore have to query the database.
     At the end, you should have a list of Artists.
-    For each artist, we will display the name, the first 20 characters of the bio,
-    the genre and the number of music written.
+    For each artist, we will display the name (DONE), the first 20 characters of the bio (DONE),
+    the gender(DONE) and the number of music written(DONE).
 
 * Part 3 : BRICIA
     - Create a page to insert a new artist.
