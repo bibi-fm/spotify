@@ -50,8 +50,8 @@
 
 * Part 6 : RICARDO
     - My account page ('/ account')
-    This page will display information about the user.
-    This page is allowed only for logged-in user.
+    This page will display information about the user. DONE
+    This page is allowed only for logged-in user. DONE
 
 * Part 7 : BRICIA
     - Playlist page ('/playlists).
