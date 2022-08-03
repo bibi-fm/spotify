@@ -2,7 +2,6 @@
 session_start();
 if (isset($_POST['submit-btn'])) {
     if (!empty($_POST['email']) && !empty($_POST['password'])) {
-        $_SESSION['email'] = $_POST['email'];
 
         $conn = mysqli_connect('localhost', 'root', '', 'spotify_db');
 
@@ -27,10 +26,6 @@ if (isset($_POST['submit-btn'])) {
                 echo "The credentials are incorrect. / User does not exist.<br>";
             }
 
-            /*foreach ($table as $attributes) {
-                echo $attribute['email'] . '<br>';
-                echo $attribute['password'] . '<hr>';
-            }*/
         } else {
             echo 'Problem connecting with the database';
         }

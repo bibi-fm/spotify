@@ -55,8 +55,8 @@
 
 * Part 7 : BRICIA
     - Playlist page ('/playlists).
-    You can access this page only if you are logged in.
-    On this page you have two sections.
+    You can access this page only if you are logged in. DONE
+    On this page you have two sections. DONE
     The first one is a form to create a new playlist.
     The second section is displaying all the playlists for the user (title and date of
     the playlist).
