@@ -10,7 +10,7 @@
 
 * Part 1: BRICIA
     - Prepare a menu, visible on all pages of your site. This menu contains the
-    links to the pages: Home, Songs, Artists, Playlists and Register / Login.
+    links to the pages: Home, Songs, Artists, Playlists and Register / Login. DONE
     - Home page ('/'):
     The home page is an information page. It displays the title, a
     short description of the site and the menu.
