@@ -1,6 +1,6 @@
 <?php
 if (isset($_POST['submit-btn'])) {
-    $conn = mysqli_connect('localhost', 'root', '', 'spotify_db');
+    $conn = mysqli_connect('localhost', 'root', 'root', 'spotify_db');
 
     /*var_dump($_POST['artist-name']);
     var_dump($_POST['bio']);

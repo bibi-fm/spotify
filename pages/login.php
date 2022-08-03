@@ -4,7 +4,7 @@ if (isset($_POST['submit-btn'])) {
     if (!empty($_POST['email']) && !empty($_POST['password'])) {
         $_SESSION['email'] = $_POST['email'];
 
-        $conn = mysqli_connect('localhost', 'root', '', 'spotify_db');
+        $conn = mysqli_connect('localhost', 'root', 'root', 'spotify_db');
 
         if ($conn) {
             echo 'Connected successfully<br>';
