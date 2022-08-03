@@ -1,11 +1,11 @@
 <?php
-if (isset($_POST['submitBtn'])) {
+if (isset($_POST['submit-btn'])) {
     $conn = mysqli_connect('localhost', 'root', '', 'spotify_db');
 
-    var_dump($_POST['artist-name']);
+    /*var_dump($_POST['artist-name']);
     var_dump($_POST['bio']);
     var_dump($_POST['gender']);
-    var_dump($_POST['year']);
+    var_dump($_POST['year']);*/
 
     $name = $_POST['artist-name'];
     $bio = $_POST['bio'];
@@ -59,7 +59,7 @@ if (isset($_POST['submitBtn'])) {
         <label for="year">Year of Birth:</label>
         <input type="number" min="1900" max="2099" step="1" name="year" value="2022"/>
         <br>
-        <button type="submit" name="submitBtn">Add new Artist</button>
+        <button type="submit" name="submit-btn">Add new Artist</button>
     </form>
 </body>
 

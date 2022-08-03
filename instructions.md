@@ -23,7 +23,7 @@
     the gender(DONE) and the number of music written(DONE).
     TODO: update styling
 
-* Part 3 : BRICIA
+* Part 3 : BRICIA DONE
     - Create a page to insert a new artist.
     You need to use a form.
 
@@ -39,10 +39,10 @@
 * Part 5 : BRICIA
     - Registration page ('/ register'):
     Allows the user to register on the site. He must provide the email and
-    password to be able to register.
+    password to be able to register. DONE
 
     - Connection page ('/ login'):
-    Allows the user to connect.
+    Allows the user to connect. DONE
     Check if the user exists in the database.
     o If the user exists, you should display a success message.
     o Display an error message if this is not the case or if it has the
