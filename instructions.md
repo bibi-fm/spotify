@@ -11,9 +11,9 @@
 * Part 1: BRICIA
     - Prepare a menu, visible on all pages of your site. This menu contains the
     links to the pages: Home, Songs, Artists, Playlists and Register / Login. DONE
-    - Home page ('/'):
+    - Home page ('/'): TO FIX
     The home page is an information page. It displays the title, a
-    short description of the site and the menu.
+    short description of the site and the menu. DONE
 
 * Part 2 : RICARDO
     - Artist list page ('/ artists')
